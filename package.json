@@ -1,0 +1,24 @@
+{
+	"title": "Nike Fuel It",
+	"name": "nike-fuel-it",
+	"description": "package json for nike fuel it website",
+	"version": "0.1.0",
+	"devDependencies": {
+		"grunt": "~0.4"
+	},
+	"dependencies": {
+		"grunt": "~0.4",
+		"grunt-nautilus": "0.3.20"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/Instrument/nike-fuel-it.git"
+	},
+	"keywords": [],
+	"license": "MIT",
+	"author": "Instrument",
+	"readmeFilename": "README.md"
+}
